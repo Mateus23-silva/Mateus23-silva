@@ -52,22 +52,11 @@ Me chamo Mateus Miranda, tenho 20 anos. Estou aprendendo e evoluindo como progra
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    width="50%"
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Mateus23-silva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      width="45%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus23-silva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  <div>
+  <a href="https://github.com/Mateus23-silva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus23-silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus23-silva&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
 </p>
 
