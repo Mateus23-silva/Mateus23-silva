@@ -1,6 +1,6 @@
 # Mateus Miranda
 
-Me chamo Mateus Miranda, tenho 20 anos. Estou aprendendo e evoluindo como programador, compartilho aqui meus projetos, estudos e experiências que fazem parte do meu desenvolvimento na área.
+Me chamo Mateus Miranda, tenho 21 anos. Estou aprendendo e evoluindo como programador, compartilho aqui meus projetos, estudos e experiências que fazem parte do meu desenvolvimento na área.
 
 ### 🤖 Linguagens e Tecnologias
 
