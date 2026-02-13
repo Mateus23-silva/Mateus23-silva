@@ -1,50 +1,26 @@
 # Mateus Miranda
 
-Me chamo Mateus Miranda, tenho 21 anos. Estou aprendendo e evoluindo como programador, compartilho aqui meus projetos, estudos e experiências que fazem parte do meu desenvolvimento na área.
+Graduando em Análise e Desenvolvimento de Sistemas, focado na formação como desenvolvedor full stack.
+Repositório dedicado a projetos práticos, estudos e experimentações que contribuem para meu desenvolvimento técnico.
 
-### 🤖 Linguagens e Tecnologias
+## 💻 Principais Tecnologias
 
+### 🧠 Linguagens
+![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python)
 
+---
 
-<img 
-    align="left" 
-    alt="HTML" 
-    title="HTML"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+### 🎨 Front-end
+![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3)
 
-<img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-    alt="JAVASCRIPT"
-    title="JAVASCRIPT"
-    width="30px"
-    style="padding-right: 10px;"
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PYTHON" 
-    title="PYTHON"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img 
-    align="left" 
-    alt="JAVA" 
-    title="JAVA"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+---
 
+### 🛠️ Ferramentas
+![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github)
 
 <br/>
 <br/>
