@@ -5,22 +5,24 @@ Repositório dedicado a projetos práticos, estudos e experimentações que cont
 
 ## 💻 Principais Tecnologias
 
-### 🧠 Linguagens
-![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python)
-
----
-
 ### 🎨 Front-end
 ![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript)
+
+---
+
+### ⚙️ Back-end
+![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python)
+![PostgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql)
 
 ---
 
 ### 🛠️ Ferramentas
 ![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github)
+
 
 <br/>
 <br/>
